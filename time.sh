@@ -15,3 +15,4 @@ while [ $number -ge 0 ]; do
 done
 
 read -p "What is your name?: " name
+read -p "What is your age?: " age
