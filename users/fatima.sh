@@ -8,8 +8,8 @@
 
 git add $1
 git commit -m "$2"
-if  [$# -eq 3 ];then 
+if  [ $# -eq 3 ]; then 
       git  push origin $3
  else
-      git
+      git push
  fi           
