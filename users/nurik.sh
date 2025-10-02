@@ -1,9 +1,14 @@
 #!/bin/bash
 
-read -p "Enter ur first name: " name 
-read -p "Enter ur last name: " lastname
+git add $1
+git commit -m "$2"
 
-echo "Hey, $name $lastname. Have a good day!"
+if [ $# -eq 3 ]; then 
+    git push origin $3
+else 
+    git push 
+fi 
+ 
 
 
 
