@@ -1,6 +1,10 @@
 #!/bin/bash 
 
+
+### Script of conflics"
+
 echo "Hello from Abdul"
-echo "Hello from Abdul" ## - task b
-echo "Hello from Fatima"
 echo "Hello from Sun"
+echo "Hello from Fatima"
+echo "Hello from Abdul"
+echo "hello from Meder"
