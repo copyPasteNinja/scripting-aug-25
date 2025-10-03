@@ -1,5 +1,3 @@
 #!/bin/bash 
 
-### Script of conflics"
-
-echo "Hello from Abdul"
+echo "Hello from Fatima"
