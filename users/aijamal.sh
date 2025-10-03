@@ -7,3 +7,4 @@ if [ $# -eq 3 ]; then
    git push origin $3
 else
    git push
+fi
