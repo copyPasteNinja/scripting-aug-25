@@ -1,5 +1,5 @@
 #!/bin/bash 
-### Script of conflics"
+### Script of conflicts"
 
 echo "Hello from Abdul"
 echo "Hello from Sun"
@@ -9,3 +9,4 @@ echo "hello from Meder"
 echo "Hello from Sun"
 echo "nurik was here"
 echo "Hello from Aijamal"
+echo "Just testing"
